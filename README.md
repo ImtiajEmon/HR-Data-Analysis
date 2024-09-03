@@ -9,7 +9,7 @@ EDA &amp; Power BI Dashboard on HR Dataset
 - [Tools](#tools)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Power BI Dashboard](#power-bi-dashboard)
-- [Results/Findings](#results/findings)
+- [Results/Findings](#results-findings)
 - [Recommendations](#recommendations)
 
 ### Project Overview
