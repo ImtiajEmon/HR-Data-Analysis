@@ -2,6 +2,11 @@
 EDA &amp; Power BI Dashboard on HR Dataset
 
 ---
+### Table of Contents
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
+- [Data Description](#data-description)
+
 ### Project Overview
 This project involves the creation of a comprehensive Power BI dashboard for analyzing Human Resources (HR) data. The dashboard provides insights into key HR metrics such as employee demographics, performance, attrition, and more. The goal of this dashboard is to help HR professionals make informed decisions based on data-driven insights.
 
